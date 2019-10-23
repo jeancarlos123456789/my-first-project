@@ -1,3 +1,4 @@
 # Tecnologia
 - Android Studio
 - SDK Oreo
+- Jean
